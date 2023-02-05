@@ -14,5 +14,5 @@ The schema for MongoDB is defined in the `models` directory and the connection t
 
 ## Part of a Task by Neirfeno
 
-This repository is a part of a task assigned by Neirfeno to showcase the ability to implement a RESTful API with Express.js and MongoDB. The goal of this task is to demonstrate the understanding of building a backend for a web application and the ability to connect to a database.
+This repository is a part of a task assigned by Neirfeno to showcase the ability to implement a RESTful API with Express.js and MongoDB
 
